@@ -2,9 +2,11 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rani0809) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/rani0809)
 
+<h3 align="left">A Girl trying to Figure-Out Stuff!!</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rani0809" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rani0809" height="30 width="30" /></a>
+<a href="mailto:ranisdhage007@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="ranisdhage007@gmail.com" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/rani-dhage/" target="blank"><img align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" alt="rani-dhage/" height="30" width="30" /></a>
 <a href="https://instagram.com/____irani_" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="____irani_" height="30" width="30" /></a>
 <a href="https://medium.com/@ranisdhage007 " target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@rani0809" height="30" width="30" /></a>
@@ -12,6 +14,10 @@
 <a href="https://www.codeforces.com/profile/Rani07" target="blank"><img align="center"src="https://codeforces.org/s/93768/images/codeforces-telegram-square.png" alt="Rani07" height="30" width="30" /></a>
 </p>
 
+  <h3 align="left">🤔 Who Is Rani Dhage ?</h3>
+
+- 💛She is a Web Developer graduated from VJTI, Mumbai, India.
+- 🧡Her expertise primarily revolves around JavaScript, React, MERN, Web Development, AWS, and a little bit about UI/UX Designs.
 
 
 <h3 align="left">My Blogs:</h3>
