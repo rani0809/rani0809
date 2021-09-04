@@ -68,5 +68,7 @@ Not very active in Competitive Programming anymore, but if she get time or feeli
 
 ![Rani's github stats](https://github-readme-stats.vercel.app/api?username=rani0809&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 
+#### Any Project you want me a part of ?
+💌 Ping me on [LinkedIn](https://linkedin.com/in/rani-dhage)
 
-
+ 
