@@ -1,13 +1,12 @@
 ### Hello World!👋, I'm Rani
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rani0809) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/rani0809)
-<br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rani0809
 " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg
-" alt="anmolcodes" height="30" width="40" /></a>
+" alt="rani0809" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rani-dhage/" target="blank"><img align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png
 " alt="rani-dhage/" height="30" width="40" /></a>
 <a href="https://instagram.com/____irani_
@@ -18,7 +17,7 @@
 " alt="@rani0809" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rani0809
 " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg
-" alt="swagl0rd" height="30" width="40" /></a>
+" alt="Rani07" height="30" width="40" /></a>
 <a href="https://www.codeforces.com/Rani07
 " target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Codeforces.com.png
 " alt="Rani07" height="30" width="40" /></a>
