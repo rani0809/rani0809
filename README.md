@@ -10,10 +10,8 @@
 
 </p>
 
-  <h3 align="left">🤔 Who Is Rani Dhage ?</h3>
-
-- 💛She is a Web Developer graduated from VJTI, Mumbai, India.
-- 🧡Her expertise primarily revolves around JavaScript, React, MERN, Web Development, AWS, and a little bit about UI/UX Designs.
+- 💛I am a Web Developer graduated from VJTI, Mumbai, India.
+- 🧡My expertise primarily revolves around JavaScript, React, MERN, Web Development, AWS, and a little bit about UI/UX Designs.
 
 
 <h3 align="left">My Blogs:</h3>
