@@ -21,7 +21,7 @@
 
 Not very active in Competitive Programming anymore, but if she get time or feeling, she do :)
 
-  > [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/irani007/)&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/rani0809)](https://www.codechef.com/users/rani0809)&nbsp;&nbsp;&nbsp;
+  > [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/rani0809/)&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/rani0809)](https://www.codechef.com/users/rani0809)&nbsp;&nbsp;&nbsp;
 
 ### **My Portfolio**:
 
