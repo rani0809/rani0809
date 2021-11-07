@@ -19,7 +19,6 @@
 <a href="https://medium.com/@ranisdhage007"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://dev.to/rani0809"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
 
-Not very active in Competitive Programming anymore, but if she get time or feeling, she do :)
 
   > [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/rani0809/)&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/rani0809)](https://www.codechef.com/users/rani0809)&nbsp;&nbsp;&nbsp;
 
