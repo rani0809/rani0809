@@ -64,5 +64,5 @@
 #### Any Project you want me a part of ?
 💌 Ping me on [LinkedIn](https://linkedin.com/in/rani-dhage)
 
-[![wakatime](https://wakatime.com/@d0781448-682b-49a4-875f-c1c72ee35fe0)](https://wakatime.com/@d0781448-682b-49a4-875f-c1c72ee35fe0)
+[![wakatime](https://wakatime.com/badge/user/d0781448-682b-49a4-875f-c1c72ee35fe0.svg)](https://wakatime.com/@d0781448-682b-49a4-875f-c1c72ee35fe0))](https://wakatime.com/@d0781448-682b-49a4-875f-c1c72ee35fe0)
  
