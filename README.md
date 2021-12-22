@@ -2,16 +2,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:ranisdhage007@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="ranisdhage007@gmail.com" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/rani-dhage/" target="blank"><img align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" alt="rani-dhage/" height="30" width="30" /></a>
-<a href="https://instagram.com/____irani_" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="____irani_" height="30" width="30" /></a>
 
 
 
-</p>
 
-- 💛I am a Web Developer graduated from VJTI, Mumbai, India.
-- 🧡My expertise primarily revolves around JavaScript, React, MERN, Web Development, AWS, and a little bit about UI/UX Designs.
 
 
 <h3 align="left">My Blogs:</h3>
@@ -20,8 +14,7 @@
 <a href="https://dev.to/rani0809"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
 
 
-  > [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/rani0809/)&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/rani0809)](https://www.codechef.com/users/rani0809)&nbsp;&nbsp;&nbsp;
-
+  ge/Leetcode-2063-orange)](https://leetcode.com/rani0809/)&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/rani0809)](https://www.codechef.com
 ### **My Portfolio**:
 
 
@@ -57,12 +50,6 @@
 
 <img height=23 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
-### 📈 Github Statistics
-
-![Rani's github stats](https://github-readme-stats.vercel.app/api?username=rani0809&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-
-#### Any Project you want me a part of ?
-💌 Ping me on [LinkedIn](https://linkedin.com/in/rani-dhage)
 
 [![wakatime](https://wakatime.com/badge/user/d0781448-682b-49a4-875f-c1c72ee35fe0.svg)](https://wakatime.com/@d0781448-682b-49a4-875f-c1c72ee35fe0)
  
