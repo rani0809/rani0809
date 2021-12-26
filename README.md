@@ -1,16 +1,6 @@
 ### Hello World!👋
 
 
-
-
-<h3 align="left">My Blogs:</h3>
-
-<a href="https://medium.com/@ranisdhage007"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://dev.to/rani0809"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
-
-### **My Portfolio**:
-
-
 ### 🔭 **Technology Stack**
 
 #### **Programming Languages**:
@@ -44,5 +34,3 @@
 <img height=23 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
 
-[![wakatime](https://wakatime.com/badge/user/d0781448-682b-49a4-875f-c1c72ee35fe0.svg)](https://wakatime.com/@d0781448-682b-49a4-875f-c1c72ee35fe0)
- 
